@@ -1,0 +1,13 @@
+{
+    "taskUrl" : "/data/",
+    "redis" : "127.0.0.1:6379",
+    "defaultPeriod" : 10,
+    "retryTimes" : 3,
+
+    "mysql" : {
+        "host" : "127.0.0.1",
+        "db" : "spider",
+        "user" : "root",
+        "pwd", "zk",
+    }
+}
